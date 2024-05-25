@@ -94,8 +94,8 @@ Introducing Brutal Wasteland, my take on making Fallout New Vegas and Fallout 3 
 ![Fast Travel](https://staticdelivery.nexusmods.com/mods/130/images/77645/77645-1660578561-2044515298.png)
 - Fast travel replaced with lore-friendly expansion [-by StealthDick](https://www.nexusmods.com/newvegas/mods/77645)
 
-![Three-perk Bounty](https://staticdelivery.nexusmods.com/mods/130/images/73946/73946-1646427635-1889205168.png)
-- Three-perk Bounty [by 5al4mand3r](https://next.nexusmods.com/profile/5al4mand3r/about-me?gameId=130) keeps things fresh!
+![Sweet Perk Overhaul](https://staticdelivery.nexusmods.com/mods/130/images/73946/73946-1646427635-1889205168.png)
+- Sweet Perk Overhaul [by 5al4mand3r](https://next.nexusmods.com/profile/Sweet6Shooter/about-me?gameId=130) keeps things fresh!
 
 ## Watch Trailer
 
