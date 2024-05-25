@@ -668,6 +668,11 @@ TTW Brutal Wasteland TTW/Profiles/Brutal Wasteland TTW
 1. Put [NoDelete] in the beginning of the mod’s name.
 2. Example: [NoDelete] New Vegas Reloaded.
 
+## NVMP.
+
+<details>
+<summary>Show</summary>
+
 ### New Vegas Reloaded
 
 If you are interested in:
