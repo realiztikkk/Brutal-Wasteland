@@ -1,0 +1,40 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Brutal Wasteland",
+    "description": "Introducing Brutal Wasteland, my take on making Fallout New Vegas and Fallout 3 tougher and more realistic. Maxed out at 255 plugins and over 820 mods, you'll get new gameplay mechanics, enhanced textures, and overhauled locations. In this version, headshots are fatal, and everythinggg is extra lethal. Read more below!",
+    "author": "realiztikkk",
+    "maintainers": [
+      "github/realiztikkk"
+    ],
+    "game": "fallloutnv",
+    "tags": [
+      "hardcore",
+      "realism",
+      "visuals",
+      "multiplayer",
+      "survival"
+    ],
+    "nsfw": true,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://i.imgur.com/DGMn4bp.png",
+      "readme": "https://github.com/realiztikkk/Brutal-Wasteland/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
+      "machineURL": "machineURL",
+      "discordURL": "n/a"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "e1+K7eJbDJw=",
+      "Size": 0,
+      "NumberOfArchives": 14,
+      "SizeOfArchives": 135206078,
+      "NumberOfInstalledFiles": 1311,
+      "SizeOfInstalledFiles": 336453775
+    },
+    "version": "1.0"
+  }
+]
