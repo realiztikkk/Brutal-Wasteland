@@ -1,7 +1,11 @@
+Sure, I can reformat the guide to make every header or major section a drop down. Here is the updated version:
+
 # Brutal-Wasteland
+
 Introducing Brutal Wasteland, my take on making Fallout New Vegas and Fallout 3 tougher and more realistic. Maxed out at 255 plugins and over 865+ mods, you'll get new gameplay mechanics, enhanced textures, and overhauled locations. In this version, headshots are fatal, and everythinggg is extra lethal. Read more below!
 
 # Welcome to the "Brutal Wasteland" Wabbajack Install Guide!
+
 
 ![Brutal Wasteland](https://i.imgur.com/DGMn4bp.png)
 
@@ -20,6 +24,9 @@ Introducing Brutal Wasteland, my take on making Fallout New Vegas and Fallout 3 
 ![Screenshot 5](https://i.imgur.com/Jy10TRj.jpg)
 
 ## Table of Contents
+
+<details>
+<summary>Show Table of Contents</summary>
 
 1. [Welcome to the "Brutal Wasteland" Guide](#welcome-to-the-brutal-wasteland-guide)
 2. [Sources](#sources)
@@ -66,8 +73,12 @@ Introducing Brutal Wasteland, my take on making Fallout New Vegas and Fallout 3 
 17. [Sources](#sources)
 18. [Patreon Supporters](#patreon-supporters)
 19. [NVMP](#NVMP)
+</details>
 
 ## Features
+
+<details>
+<summary>Show Features</summary>
 
 - Designed for the best mix of performance, compatibility, and stability.
 - Many tweaks modernizing the feel of the game thanks to [Stewie](https://next.nexusmods.com/profile/lStewieAl/about-me?gameId=130&_gl=1*1x6zzx5*_ga*MjA1MjQyMjM3Ny4xNzE1Mzk3OTI3*_ga_N0TELNQ37M*MTcxNjUxNTkxMy4xNS4xLjE3MTY1MjE5ODkuMC4wLjA.)
@@ -87,7 +98,12 @@ Introducing Brutal Wasteland, my take on making Fallout New Vegas and Fallout 3 
 
 - Fresh interfaces thanks to [Anro19](https://next.nexusmods.com/profile/Anro19/about-me?gameId=130&_gl=1*b6ai77*_ga*MjA1MjQyMjM3Ny4xNzE1Mzk3OTI3*_ga_N0TELNQ37M*MTcxNjUxNTkxMy4xNS4xLjE3MTY1MjE5OTQuMC4wLjA.)
 
+</details>
+
 ## Featured Mods
+
+<details>
+<summary>Show Featured Mods</summary>
 
 ![Realistic Combat](https://staticdelivery.nexusmods.com/mods/130/images/66646/66646-1552712735-1181766514.jpeg)
 - Makes combat feel much more realistic [-by korri123](https://www.nexusmods.com/newvegas/mods/66646)
@@ -98,18 +114,26 @@ Introducing Brutal Wasteland, my take on making Fallout New Vegas and Fallout 3 
 ![Sweet Perk Overhaul](https://staticdelivery.nexusmods.com/mods/130/images/73946/73946-1646427635-1889205168.png)
 - Sweet Perk Overhaul [by 5al4mand3r](https://next.nexusmods.com/profile/Sweet6Shooter/about-me?gameId=130) keeps things fresh!
 
+</details>
+
 ## Watch Trailer
 
+<details>
+<summary>Show Trailer</summary>
 Coming soon!
+</details>
 
 ## What's New
 
+<details>
+<summary>Show What's New</summary>
 Coming soon!
+</details>
 
 ## Modlists and Load Orders
 
 <details>
-<summary>Show</summary>
+<summary>Show Modlists and Load Orders</summary>
 
 **[Brutal Wasteland  profile](https://loadorderlibrary.com/lists/brutal-wasteland)**
 
@@ -133,7 +157,9 @@ If you have any questions, there's a FAQ down below.
 - **English copy of Fallout New Vegas with all official DLC on [Steam](https://store.steampowered.com/agecheck/sub/13435).**
 - **A [Nexus Mods](https://users.nexusmods.com/register) account, preferably with a premium subscription.**
 - **Download and install [Visual C++](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/) (extract the archive and run the included install_all.bat as an administrator to install all the required libraries at once).**
-- **Download and install [DirectX Runtime Libraries](https://www.microsoft.com/en-us/download/details.aspx?id=8109) and [.NET Framework 4.8](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net48-web-installer).**
+- **Download and install [DirectX Runtime Libraries](https://www.microsoft.com
+
+/en-us/download/details.aspx?id=8109) and [.NET Framework 4.8](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net48-web-installer).**
 - **The latest GPU drivers ([NVIDIA](https://www.nvidia.com/Download/index.aspx), [AMD](https://www.amd.com/en/support), or [Intel](https://www.intel.com/content/www/us/en/download/19344/intel-graphics-windows-dch-drivers.html)).**
 - **An archiving tool ([7-zip](https://www.7-zip.org/) is recommended).**
 - **A text editor ([Notepad++](https://notepad-plus-plus.org/) is recommended, but the default Windows notepad will work).**
@@ -215,6 +241,9 @@ Instructions:
 
 ## Brutal Wasteland Setup
 
+<details>
+<summary>Show Setup</summary>
+
 ### Recommended Specs
 
 - **SSD: NVME for less stuttering and drastically improved loading times (a SATA SSD is fine too).**
@@ -265,7 +294,9 @@ The purpose of reinstalling is to relocate the game files to a better directory.
 Instructions:
 
 1. Exit out of Steam using the system tray or Task Manager.
-2. Run the file as admin if you installed Steam in the program file.
+2. Run the file as admin if
+
+ you installed Steam in the program file.
 3. Add a new entry by clicking Add Row.
 4. Type the chosen path under path C:\Games\Steam.
 5. Click Accept then Yes if prompted to create a new folder.
@@ -432,7 +463,9 @@ Install all of them onto MO2. Put [NoDelete] at the beginning of the mod’s nam
 
 Instructions:
 
-1. Download [NVR](https://discord.gg/r8EFG5YGBj) Version 03/29/2024 in the [TES Reloaded](https://discord.com/invite/r8EFG5YGBj) Discord located under #nightly-builds channel.
+1. Download [NVR](https://discord.gg/r8EFG5YGBj) Version 03/29/2024 in the [TES Reloaded](https://
+
+discord.com/invite/r8EFG5YGBj) Discord located under #nightly-builds channel.
 2. Manually install the file into Mod Organizer 2 by clicking the CD icon located on the top left of the screen.
 3. Put [NoDelete] at the beginning of the mod’s name. Example: [NoDelete] NewVegasReloaded.
 
@@ -464,7 +497,12 @@ Instructions:
 
 Remove Always run and Auto move keybinds with ESC in your controls settings for better compatibility with B42 bash and bullet time. AMD users will need to use DXVK, which is included in the pack since the newest AMD updates are causing crashes with DX9 games.
 
+</details>
+
 ## Tweaks
+
+<details>
+<summary>Show Tweaks</summary>
 
 ### DXVK
 
@@ -508,10 +546,12 @@ If you are interested in or want to know more about:
 
 Check out Wall’s [Performance guide](https://performance.moddinglinked.com/falloutnv.html).
 
+</details>
+
 ## Updating
 
 <details>
-<summary>Show</summary>
+<summary>Show Updating</summary>
 
 ### Wabbajack
 
@@ -547,7 +587,7 @@ If you plan on updating NVR/changing presets, it's recommended to delete the sha
 ## Keybinds and Controls
 
 <details>
-<summary>Show</summary>
+<summary>Show Keybinds and Controls</summary>
 
 ### Xbox Controls
 
@@ -563,7 +603,7 @@ Press K in the pause menu to view the keybinds.
 ## FAQ
 
 <details>
-<summary>Show</summary>
+<summary>Show FAQ</summary>
 
 ### Wabbajack
 
@@ -620,6 +660,8 @@ TTW Brutal Wasteland TTW/Profiles/Brutal Wasteland TTW
 - To avoid issues with TTW mods.
 
 **Traveled to the Mojave and all my stuff disappeared?**
+
+
 
 - For balance, can be found in Benny's safe located at The Tops.
 
@@ -689,6 +731,9 @@ If you are interested in:
 
 ## Tips
 
+<details>
+<summary>Show Tips</summary>
+
 ### General Tips
 
 **Make sure you have no overlays like Overwolf or Discord on as it can make performance worse or cause freezing etc.**
@@ -709,7 +754,12 @@ If you are interested in:
 
 -Will go here
 
+</details>
+
 ## Known Issues
+
+<details>
+<summary>Show Known Issues</summary>
 
 - Some of the NPCs' faces will look off.
 - Dithering which can be reduced if you get rid of DXVK, apply an FXAA shader through ReShade, NVIDIA control panel Antialiasing, or the dithering reducer preset that came with the mod pack.
@@ -719,15 +769,31 @@ If you are interested in:
 - For TTW, the game freezes near Springvale when going outside from the basement. Didn't happen in version 2.0; might be something I updated or uncapped framerate.
 - For TTW, crashing at startup; clearing overwrite in MO2 fixes this or removing any menu plugins.
 
+</details>
+
 ## Support
+
+<details>
+<summary>Show Support</summary>
 
 Have questions or need support for Wabbajack?  
 [WABBAJACK SITE](https://wiki.wabbajack.org/) or [WABBAJACK DISCORD](https://discord.com/invite/wabbajack)
 
+</details>
+
 ## Credits
+
+<details>
+<summary>Show Credits</summary>
+
 - All mod creators and guide authors
 
+</details>
+
 ## Sources
+
+<details>
+<summary>Show Sources</summary>
 
 Based on the following resources:
 - [Wabbajack](https://wiki.wabbajack.org/modlist_author_documentation/Post-Compilation.html)
@@ -740,14 +806,21 @@ Based on the following resources:
 - [Blue Moon](https://qolore7.github.io/bluemoon/)
 - [NVMP](https://wiki.nv-mp.com/en/radd/RADD-Mods)
 
+</details>
+
 ## Patreon Supporters
+
+<details>
+<summary>Show Patreon Supporters</summary>
 
 - Coming Soon!
 
-## NVMP.
+</details>
+
+## NVMP
 
 <details>
-<summary>Show</summary>
+<summary>Show NVMP</summary>
 
 ## Installing NVMP 
 
@@ -785,3 +858,6 @@ Based on the following resources:
 
 That's it!
 
+</details>
+
+</details>
