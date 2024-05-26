@@ -555,7 +555,7 @@ Check out Wall’s [Performance guide](https://performance.moddinglinked.com/fal
 
 ### Wabbajack
 
-Important: When updating Brutal Wasteland, you will have to check the What's new section if each update is save-safe or not save-safe. This is important because adding mods mid-playthrough can cause crashes, bugs, and a whole list of other issues. The update version shows at the top of the modlist. Back up any mods you installed on top of Brutal Wasteland or place [NoDelete] in front of the mod’s name! Example:
+Important: On updating; Back up any mods you installed on top of Brutal Wasteland or place [NoDelete] in front of the mod’s name! Example:
 
 Instructions:
 
@@ -742,7 +742,7 @@ If you are interested in:
 
 **You can delete the files in the Brutal Wasteland FNV or TTW Downloads folder to free up space, but not recommended if you have bad internet since you'll have to redownload everything again. If you choose to update when updates drop, you'll have to delete it again.**
 
-**Make sure to not pass 249 in your load order with the optional mods!**
+**Make sure to not pass 255 in your load order!**
 
 ### Hardcore Tweaks
 
