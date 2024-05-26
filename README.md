@@ -673,6 +673,42 @@ TTW Brutal Wasteland TTW/Profiles/Brutal Wasteland TTW
 <details>
 <summary>Show</summary>
 
+## Installing NVMP 
+
+### Step-by-Step Instructions
+
+### Step 1: Download Required Software
+
+1. **Download NVMP:**
+   - Download the latest [NVMP build_release_client.zip](https://github.com/NVMP/ClientDistribution/releases/download/6.13/build_release_client.zip).
+
+### Step 2: Install NVMP
+
+1. **Add NVMP to MO2 Downloads:**
+   - Place the `build_release_client.zip` in the downloads folder of MO2.
+
+### Step 3: Configure NVMP in MO2
+
+1. **Create Launch Profiles:**
+   - Open MO2.
+   - Create or use a new profile named `Brutal Wasteland -Connect-` and set the executable to `nvmp_launcher.exe`.
+   - Create or use another profile named `Brutal Wasteland -Server-` and set the executable to `nvmp_storyserver.exe`.
+
+### Step 4: Hosting and Playing on the Same Computer (Optional)
+
+1. **Configure MO2 for Multiple Instances:**
+   - Create a shortcut to Mod Organizer 2.
+   - Right-click the shortcut and select "Properties".
+   - In the "Target" field, add `--multiple` at the end.
+   - Apply the changes.
+
+2. **Launch Server and Connect:**
+   - First, launch the `Brutal Wasteland -Server-` profile to start the server.
+   - Then, launch the `Brutal Wasteland -Connect-` profile to connect to the server.
+   - Connect via `localhost` or local IP address.
+
+That's it!
+
 ### New Vegas Reloaded
 
 If you are interested in:
