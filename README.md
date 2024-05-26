@@ -668,6 +668,24 @@ TTW Brutal Wasteland TTW/Profiles/Brutal Wasteland TTW
 1. Put [NoDelete] in the beginning of the mod’s name.
 2. Example: [NoDelete] New Vegas Reloaded.
 
+### New Vegas Reloaded
+
+If you are interested in:
+
+- Film Grain
+- Chromatic Aberration
+- Depth of Field
+- Lens Flare
+- Motion Blur
+- Shadows
+- Ambient Occlusion
+- Reflections
+- Volumetric Fog and more
+
+[NVR](https://discord.gg/uzmSsRRB33) covers all of that.
+
+</details>
+
 ## NVMP.
 
 <details>
@@ -708,24 +726,6 @@ TTW Brutal Wasteland TTW/Profiles/Brutal Wasteland TTW
    - Connect via `localhost` or local IP address.
 
 That's it!
-
-### New Vegas Reloaded
-
-If you are interested in:
-
-- Film Grain
-- Chromatic Aberration
-- Depth of Field
-- Lens Flare
-- Motion Blur
-- Shadows
-- Ambient Occlusion
-- Reflections
-- Volumetric Fog and more
-
-[NVR](https://discord.gg/uzmSsRRB33) covers all of that.
-
-</details>
 
 ## Tips
 
