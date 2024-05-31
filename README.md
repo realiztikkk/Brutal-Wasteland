@@ -76,7 +76,7 @@ Introducing Brutal Wasteland, my take on making Fallout New Vegas and Fallout 3 
 22. [Reviews](#reviews)
 </details>
 
-## Features
+## <span style="display:none;">Features</span>
 ![](https://i.postimg.cc/BZkD3g9r/features.png)
 <details>
 <summary>Show Features</summary>
