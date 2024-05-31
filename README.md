@@ -76,7 +76,9 @@ Introducing Brutal Wasteland, my take on making Fallout New Vegas and Fallout 3 
 22. [Reviews](#reviews)
 </details>
 
-## <span style="display:none;">Features</span>
+<!-- Use HTML comments to hide the header text -->
+<h2 style="display:none;">Features</h2>
+<!-- Add your image header -->
 ![](https://i.postimg.cc/BZkD3g9r/features.png)
 <details>
 <summary>Show Features</summary>
