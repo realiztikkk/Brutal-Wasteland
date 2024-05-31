@@ -24,7 +24,7 @@ Introducing Brutal Wasteland, my take on making Fallout New Vegas and Fallout 3 
 ## Table of Contents
 ![](https://i.postimg.cc/fRQVTcjk/toc.png)
 <details>
-<summary>Show Table of Contents</summary>
+<summary>More</summary>
 
 1. [Welcome!](#welcome)
 2. [Sources](#sources)
@@ -79,7 +79,7 @@ Introducing Brutal Wasteland, my take on making Fallout New Vegas and Fallout 3 
 ## <span style="display:none;">Features</span>
 ![](https://i.postimg.cc/BZkD3g9r/features.png)
 <details>
-<summary>Show Features</summary>
+<summary>More</summary>
 
 - Designed for the best mix of performance, compatibility, and stability.
 - Many tweaks modernizing the feel of the game thanks to [Stewie](https://next.nexusmods.com/profile/lStewieAl/about-me?gameId=130&_gl=1*1x6zzx5*_ga*MjA1MjQyMjM3Ny4xNzE1Mzk3OTI3*_ga_N0TELNQ37M*MTcxNjUxNTkxMy4xNS4xLjE3MTY1MjE5ODkuMC4wLjA.)
@@ -104,7 +104,7 @@ Introducing Brutal Wasteland, my take on making Fallout New Vegas and Fallout 3 
 ## Featured Mods
 ![](https://i.postimg.cc/tCx1jS6L/featuredmods.png)
 <details>
-<summary>Show Featured Mods</summary>
+<summary>More</summary>
 
 ![Realistic Combat](https://staticdelivery.nexusmods.com/mods/130/images/66646/66646-1552712735-1181766514.jpeg)
 - Makes combat feel much more realistic [-by korri123](https://www.nexusmods.com/newvegas/mods/66646)
@@ -120,21 +120,21 @@ Introducing Brutal Wasteland, my take on making Fallout New Vegas and Fallout 3 
 ## Watch Trailer
 ![](https://i.postimg.cc/pV793bmf/watchtrailer.png)
 <details>
-<summary>Show Trailer</summary>
+<summary>More</summary>
 Coming soon!
 </details>
 
 ## What's New
 ![](https://i.postimg.cc/vB21QC3d/whatsnew.png)
 <details>
-<summary>Show What's New</summary>
+<summary>More</summary>
 Coming soon!
 </details>
 
 ## Modlists and Load Orders
 ![](https://i.postimg.cc/fy6JdXG2/moloadorder.png)
 <details>
-<summary>Show Modlists and Load Orders</summary>
+<summary>More</summary>
 
 **[Brutal Wasteland  profile](https://loadorderlibrary.com/lists/brutal-wasteland)**
 
@@ -243,7 +243,7 @@ Instructions:
 ## Brutal Wasteland Setup
 ![](https://i.postimg.cc/3NykW9c0/bwsetup.png)
 <details>
-<summary>Show Setup</summary>
+<summary>More</summary>
 
 ### Recommended Specs
 
@@ -503,7 +503,7 @@ Remove Always run and Auto move keybinds with ESC in your controls settings for 
 ## Tweaks
 ![](https://i.postimg.cc/c6GrnFd6/tweaks.png)
 <details>
-<summary>Show Tweaks</summary>
+<summary>More</summary>
 
 ### DXVK
 
@@ -552,7 +552,7 @@ Check out Wall’s [Performance guide](https://performance.moddinglinked.com/fal
 ## Updating
 ![](https://i.postimg.cc/VsdHsm5d/updating.png)
 <details>
-<summary>Show Updating</summary>
+<summary>More</summary>
 
 ### Wabbajack
 
@@ -588,7 +588,7 @@ If you plan on updating NVR/changing presets, it's recommended to delete the sha
 ## Keybinds and Controls
 ![](https://i.postimg.cc/FzMJx9Vr/keybindsandcontrols.png)
 <details>
-<summary>Show Keybinds and Controls</summary>
+<summary>More</summary>
 
 ### Xbox Controls
 
@@ -604,7 +604,7 @@ Press K in the pause menu to view the keybinds.
 ## FAQ
 ![](https://i.postimg.cc/LX0PnkqZ/faqs.png)
 <details>
-<summary>Show FAQ</summary>
+<summary>More</summary>
 
 ### Wabbajack
 
@@ -733,7 +733,7 @@ If you are interested in:
 ## Tips
 ![](https://i.postimg.cc/4y9YyDkr/tips.png)
 <details>
-<summary>Show Tips</summary>
+<summary>More</summary>
 
 ### General Tips
 
@@ -760,7 +760,7 @@ If you are interested in:
 ## Known Issues
 ![](https://i.postimg.cc/RVttZHvN/knownissues.png)
 <details>
-<summary>Show Known Issues</summary>
+<summary>More</summary>
 
 - Some of the NPCs' faces will look off.
 - Dithering which can be reduced if you get rid of DXVK, apply an FXAA shader through ReShade, NVIDIA control panel Antialiasing, or the dithering reducer preset that came with the mod pack.
@@ -775,7 +775,7 @@ If you are interested in:
 ## Support
 ![](https://i.postimg.cc/hjwJSSwL/support.png)
 <details>
-<summary>Show Support</summary>
+<summary>More</summary>
 
 Have questions or need support for Wabbajack?  
 [WABBAJACK SITE](https://wiki.wabbajack.org/) or [WABBAJACK DISCORD](https://discord.com/invite/wabbajack)
@@ -785,7 +785,7 @@ Have questions or need support for Wabbajack?
 ## Credits
 ![](https://i.postimg.cc/d10dsN0Y/credits.png)
 <details>
-<summary>Show Credits</summary>
+<summary>More</summary>
 
 - All mod creators and guide authors
 
@@ -794,7 +794,7 @@ Have questions or need support for Wabbajack?
 ## Sources
 ![](https://i.postimg.cc/SxLJXnDd/sources.png)
 <details>
-<summary>Show Sources</summary>
+<summary>More</summary>
 
 Based on the following resources:
 - [Wabbajack](https://wiki.wabbajack.org/modlist_author_documentation/Post-Compilation.html)
@@ -812,7 +812,7 @@ Based on the following resources:
 ## Patreon Supporters
 ![](https://i.postimg.cc/jjMwF64k/patreonsupporters.png)
 <details>
-<summary>Show Patreon Supporters</summary>
+<summary>More</summary>
 
 - Coming Soon!
 
@@ -821,7 +821,7 @@ Based on the following resources:
 ## NVMP
 ![](https://i.postimg.cc/gJ2XbGyD/nvmp.png)
 <details>
-<summary>Show NVMP</summary>
+<summary>More</summary>
 
 ## Installing NVMP 
 
@@ -864,7 +864,7 @@ That's it!
 ### Discord
 ![](https://i.postimg.cc/Y0GWg4gD/discord.png)
 <details>
-<summary>Show Discord</summary>
+<summary>More</summary>
 
 Coming Soon!
 
@@ -873,7 +873,7 @@ Coming Soon!
 ### Not Included
 ![](https://i.postimg.cc/8zV6JzCw/notincluded.png)
 <details>
-<summary>Show Not Included</summary>
+<summary>More</summary>
 
 Coming Soon!
 
@@ -882,7 +882,7 @@ Coming Soon!
 ### Reviews
 ![](https://i.postimg.cc/1t4nhgWR/reviews.png)
 <details>
-<summary>Show Reviews</summary>
+<summary>More</summary>
 
 Coming Soon!
 
