@@ -20,7 +20,6 @@ Introducing Brutal Wasteland, my take on making Fallout New Vegas and Fallout 3 
 ![Screenshot 3](https://i.imgur.com/1pUO4n6.jpeg)
 ![Screenshot 4](https://i.imgur.com/8Vcbyrg.jpg)
 ![Screenshot 5](https://i.imgur.com/Jy10TRj.jpg)
-<details>
 
 ## Table of Contents
 ![](https://i.postimg.cc/fRQVTcjk/toc.png)
