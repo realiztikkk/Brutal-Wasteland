@@ -70,11 +70,14 @@ Introducing Brutal Wasteland, my take on making Fallout New Vegas and Fallout 3 
 16. [Credits](#credits)
 17. [Sources](#sources)
 18. [Patreon Supporters](#patreon-supporters)
-19. [NVMP](#NVMP)
+19. [NVMP](#nvmp)
+20. [Discord](#discord)
+21. [Not Included](#not-included)
+22. [Reviews](#reviews)
 </details>
 
 ## Features
-
+![](https://i.postimg.cc/BZkD3g9r/features.png)
 <details>
 <summary>Show Features</summary>
 
@@ -498,7 +501,7 @@ Remove Always run and Auto move keybinds with ESC in your controls settings for 
 </details>
 
 ## Tweaks
-
+![](https://i.postimg.cc/c6GrnFd6/tweaks.png)
 <details>
 <summary>Show Tweaks</summary>
 
@@ -547,7 +550,7 @@ Check out Wall’s [Performance guide](https://performance.moddinglinked.com/fal
 </details>
 
 ## Updating
-
+![](https://i.postimg.cc/VsdHsm5d/updating.png)
 <details>
 <summary>Show Updating</summary>
 
@@ -583,7 +586,7 @@ If you plan on updating NVR/changing presets, it's recommended to delete the sha
 </details>
 
 ## Keybinds and Controls
-
+![](https://i.postimg.cc/FzMJx9Vr/keybindsandcontrols.png)
 <details>
 <summary>Show Keybinds and Controls</summary>
 
@@ -599,7 +602,7 @@ Press K in the pause menu to view the keybinds.
 </details>
 
 ## FAQ
-
+![](https://i.postimg.cc/LX0PnkqZ/faqs.png)
 <details>
 <summary>Show FAQ</summary>
 
@@ -728,7 +731,7 @@ If you are interested in:
 </details>
 
 ## Tips
-
+![](https://i.postimg.cc/4y9YyDkr/tips.png)
 <details>
 <summary>Show Tips</summary>
 
@@ -755,7 +758,7 @@ If you are interested in:
 </details>
 
 ## Known Issues
-
+![](https://i.postimg.cc/RVttZHvN/knownissues.png)
 <details>
 <summary>Show Known Issues</summary>
 
@@ -770,7 +773,7 @@ If you are interested in:
 </details>
 
 ## Support
-
+![](https://i.postimg.cc/hjwJSSwL/support.png)
 <details>
 <summary>Show Support</summary>
 
@@ -780,7 +783,7 @@ Have questions or need support for Wabbajack?
 </details>
 
 ## Credits
-
+![](https://i.postimg.cc/d10dsN0Y/credits.png)
 <details>
 <summary>Show Credits</summary>
 
@@ -807,7 +810,7 @@ Based on the following resources:
 </details>
 
 ## Patreon Supporters
-
+![](https://i.postimg.cc/jjMwF64k/patreonsupporters.png)
 <details>
 <summary>Show Patreon Supporters</summary>
 
@@ -855,6 +858,27 @@ Based on the following resources:
    - Connect via `localhost` or local IP address.
 
 That's it!
+
+</details>
+
+### Discord
+
+Coming Soon!
+![](https://i.postimg.cc/Y0GWg4gD/discord.png)
+
+</details>
+
+### Not Included
+
+Coming Soon!
+![](https://i.postimg.cc/8zV6JzCw/notincluded.png)
+
+</details>
+
+### Reviews
+
+Coming Soon!
+![](https://i.postimg.cc/1t4nhgWR/reviews.png)
 
 </details>
 
