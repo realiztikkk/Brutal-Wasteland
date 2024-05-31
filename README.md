@@ -82,23 +82,23 @@ Ready to embark on your modding adventure? Let's dive in!
 <details>
 <summary>More</summary>
 
-- Designed for the best mix of performance, compatibility, and stability.
-- Many tweaks modernizing the feel of the game thanks to [Stewie](https://next.nexusmods.com/profile/lStewieAl/about-me?gameId=130&_gl=1*1x6zzx5*_ga*MjA1MjQyMjM3Ny4xNzE1Mzk3OTI3*_ga_N0TELNQ37M*MTcxNjUxNTkxMy4xNS4xLjE3MTY1MjE5ODkuMC4wLjA.)
-- An incredible amount of mostly 2k textures without straying too far from vanilla.
-- Gameplay mechanics like sprinting, weapon bashing, bullet time, and many more to feel like later Fallout titles and more modern games.
-- Reworked lighting inside and out.
-- TONS of bug fixes.
-- TONS of new sound effects.
-- Redesigned locations.
-- Xbox Controller support.
-- Optional mods for different performance levels.
-- [Root builder](https://www.nexusmods.com/skyrimspecialedition/mods/31720) included, removing the need to add files to the game's root folder.
-- Ultrawide support.
-- HDR support.
+- **Designed for the best mix of performance, compatibility, and stability.**
+- **Modernized gameplay tweaks thanks to [Stewie](https://next.nexusmods.com/profile/lStewieAl/about-me?gameId=130&_gl=1*1x6zzx5*_ga*MjA1MjQyMjM3Ny4xNzE1Mzk3OTI3*_ga_N0TELNQ37M*MTcxNjUxNTkxMy4xNS4xLjE3MTY1MjE5ODkuMC4wLjA.).**
+- **An incredible array of mostly 2k textures that stay true to the vanilla style.**
+- **Enhanced gameplay mechanics like sprinting, weapon bashing, and bullet time for a more modern feel.**
+- **Reworked lighting for both interiors and exteriors.**
+- **TONS of bug fixes.**
+- **TONS of new sound effects.**
+- **Redesigned locations.**
+- **Xbox Controller support.**
+- **Optional mods to cater to different performance levels.**
+- **[Root builder](https://www.nexusmods.com/skyrimspecialedition/mods/31720) included, so no need to mess with the game's root folder.**
+- **Ultrawide support.**
+- **HDR support.**
 
 ![New Interface](https://staticdelivery.nexusmods.com/mods/130/images/80642/80642-1697675235-1061446230.jpeg)
 
-- Fresh interfaces thanks to [Anro19](https://next.nexusmods.com/profile/Anro19/about-me?gameId=130&_gl=1*b6ai77*_ga*MjA1MjQyMjM3Ny4xNzE1Mzk3OTI3*_ga_N0TELNQ37M*MTcxNjUxNTkxMy4xNS4xLjE3MTY1MjE5OTQuMC4wLjA.)
+- **Fresh interfaces courtesy of [Anro19](https://next.nexusmods.com/profile/Anro19/about-me?gameId=130&_gl=1*b6ai77*_ga*MjA1MjQyMjM3Ny4xNzE1Mzk3OTI3*_ga_N0TELNQ37M*MTcxNjUxNTkxMy4xNS4xLjE3MTY1MjE5OTQuMC4wLjA.).**
 
 </details>
 
