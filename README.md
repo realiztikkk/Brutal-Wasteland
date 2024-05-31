@@ -862,29 +862,29 @@ That's it!
 </details>
 
 ### Discord
+![](https://i.postimg.cc/Y0GWg4gD/discord.png)
 <details>
 <summary>Show NVMP</summary>
 
 Coming Soon!
-![](https://i.postimg.cc/Y0GWg4gD/discord.png)
 
 </details>
 
 ### Not Included
+![](https://i.postimg.cc/8zV6JzCw/notincluded.png)
 <details>
 <summary>Show NVMP</summary>
 
 Coming Soon!
-![](https://i.postimg.cc/8zV6JzCw/notincluded.png)
 
 </details>
 
 ### Reviews
+![](https://i.postimg.cc/1t4nhgWR/reviews.png)
 <details>
 <summary>Show NVMP</summary>
 
 Coming Soon!
-![](https://i.postimg.cc/1t4nhgWR/reviews.png)
 
 </details>
 
