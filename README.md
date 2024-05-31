@@ -503,35 +503,35 @@ Remove Always run and Auto move keybinds with ESC in your controls settings for 
 
 ### DXVK
 
-I recommend using [DXVK 1.10.3 - Async](https://www.nexusmods.com/newvegas/mods/79299?tab=files&file_id=1000102854) which is included in the mod pack since I found it to be the most stable when it comes to crashes, but if it makes crashes worse or causes visual/performance issues, try the other versions of DXVK or deactivate it. It can be found under the optional separator in your modlist. If you have an AMD GPU, you must use DXVK or you'll face crashes.
+I recommend using [DXVK 1.10.3 - Async](https://www.nexusmods.com/newvegas/mods/79299?tab=files&file_id=1000102854) included in the mod pack, as it tends to be the most stable in preventing crashes. However, if you experience worse crashes or visual/performance issues, try other versions of DXVK or deactivate it. It can be found under the optional separator in your modlist. If you have an AMD GPU, DXVK is essential to avoid crashes.
 
 ### Alt-Tabbing
 
-If you need Alt-tabbing, DXVK covers that. If DXVK doesn't work well with your setup, look at the [Performance guide](https://performance.moddinglinked.com/falloutnv.html) for alt-tabbing or try one tweak which is included in the pack!
+Need to Alt-tab? DXVK handles that. If DXVK doesn't play nice with your setup, check out the [Performance guide](https://performance.moddinglinked.com/falloutnv.html) for alt-tabbing solutions or try the included tweak!
 
 ### Capping FPS
 
-I highly recommend capping your FPS to 60 with any tool mentioned in this [Performance guide](https://performance.moddinglinked.com/falloutnv.html)!
+I highly recommend capping your FPS to 60 using any tool mentioned in this [Performance guide](https://performance.moddinglinked.com/falloutnv.html).
 
 ### V-Sync and Fullscreen
 
-The mod pack by default has Fullscreen enabled and V-Sync disabled. If you have latency issues or lines running down your screen, follow the performance guide. AMD GPU should use Fullscreen for the best performance. Use Flip mode if you have an NVIDIA GPU.
+The mod pack defaults to Fullscreen enabled and V-Sync disabled. If you experience latency issues or screen tearing, follow the performance guide. AMD GPU users should stick to Fullscreen for best performance, while NVIDIA GPU users should use Flip mode.
 
 ### Resolution Scaling and Frame Generation
 
-For resolution scaling and frame generation, check out the link below. It will have to be purchased sadly. Must have a 40 series Nvidia graphics card to use Frame generation. [Steam Store](https://store.steampowered.com/news/app/993090/view/3874849112275096626).
+For resolution scaling and frame generation, visit the [Steam Store](https://store.steampowered.com/news/app/993090/view/3874849112275096626). Note: this feature requires a 40 series Nvidia graphics card.
 
 ### Latency
 
-You can reduce latency even more by changing low latency mode in the NVIDIA control panel or Anti-lag in AMD Radeon to on. I recommend making the tweak just for the game and not global. This is not recommended if you are struggling for FPS. If you want to try even more latency tweaks, NVIDIA posted a [guide](https://www.nvidia.com/en-us/geforce/guides/gfecnt/202010/system-latency-optimization-guide/). I don't recommend the Advanced PC Latency Optimization or Overclocking part unless you know what you are doing.
+Reduce latency further by enabling low latency mode in the NVIDIA control panel or Anti-lag in AMD Radeon settings. Apply these changes specifically for the game, not globally. Avoid this tweak if you're struggling with FPS. For additional latency tweaks, check out NVIDIA's [guide](https://www.nvidia.com/en-us/geforce/guides/gfecnt/202010/system-latency-optimization-guide/). Only attempt the Advanced PC Latency Optimization or Overclocking if you know what you're doing.
 
 ### NVHR
 
-I won't be using NVHR since it causes more memory crashes when using DXVK, but you can play around with it if you'd like [NVHR](https://www.nexusmods.com/newvegas/mods/69779). There will be no support if you do.
+I won't be using NVHR as it causes more memory crashes with DXVK, but feel free to experiment with it. [NVHR](https://www.nexusmods.com/newvegas/mods/69779). Note that there will be no support if you do.
 
 ### Performance Guide
 
-If you are interested in or want to know more about:
+For more details on:
 
 - Latency
 - Capping framerate
@@ -543,6 +543,7 @@ If you are interested in or want to know more about:
 
 Check out Wall’s [Performance guide](https://performance.moddinglinked.com/falloutnv.html).
 
+
 </details>
 
 ## Updating
@@ -552,32 +553,32 @@ Check out Wall’s [Performance guide](https://performance.moddinglinked.com/fal
 
 ### Wabbajack
 
-Important: On updating; Back up any mods you installed on top of Brutal Wasteland or place [NoDelete] in front of the mod’s name! Example:
+**Important:** When updating, back up any mods you installed on top of Brutal Wasteland or prepend [NoDelete] to the mod’s name! Example:
 
-Instructions:
+### Instructions:
 
 1. Make sure you have the latest Wabbajack installed.
 2. Open Wabbajack and find the Brutal Wasteland list.
-3. Set the installation and download location to where you originally installed Brutal Wasteland to so you can overwrite it.
+3. Set the installation and download location to where you originally installed Brutal Wasteland to overwrite it.
 4. Click the play button once you have it set up.
 5. Once finished, close Wabbajack.
 
-You will need to download the modlist and load order every update.
+You will need to download the modlist and load order with every update.
 
 ### TTW
 
-1. Download both the modlist and load order here:
-   [Brutal Wasteland TTW  profile](https://loadorderlibrary.com/lists/brutal-wasteland)  
+1. Download both the modlist and load order here:  
+   [Brutal Wasteland TTW profile](https://loadorderlibrary.com/lists/brutal-wasteland)  
 
-2. Paste them into your profiles located here \profiles\Brutal Wasteland TTW
+2. Paste them into your profiles located here: `\profiles\Brutal Wasteland TTW`
 
 ### DXVK
 
-If you plan on changing DXVK, it's recommended to delete the DXVK cache located in C:\Steam\steamapps\shadercache\22380\DXVK_state_cache to avoid issues.
+If you plan on changing DXVK, it's recommended to delete the DXVK cache located in `C:\Steam\steamapps\shadercache\22380\DXVK_state_cache` to avoid issues.
 
 ### New Vegas Reloaded
 
-If you plan on updating NVR/changing presets, it's recommended to delete the shaders folder in your MO2 overwrite folder to avoid issues. At the moment, the only supported version is 3/29/24.
+If you plan on updating NVR or changing presets, it's recommended to delete the shaders folder in your MO2 overwrite folder to avoid issues. The only supported version at the moment is 3/29/24.
 
 </details>
 
@@ -607,7 +608,7 @@ Press K in the pause menu to view the keybinds.
 **Why can’t Wabbajack find my Fallout New Vegas install?**
 
 1. Close Wabbajack.
-2. Go to C:\Users\YOURUSERNAME\AppData\Local and delete the Wabbajack folder.
+2. Go to `C:\Users\YOURUSERNAME\AppData\Local` and delete the Wabbajack folder.
 
 **Why are my downloads in Wabbajack failing?**
 
@@ -616,24 +617,24 @@ Press K in the pause menu to view the keybinds.
 
 ### Reshade
 
-If you want to screenshot, press your print key. The screenshots go to your games folder.
+If you want to take screenshots, press your print key. The screenshots will be saved in your games folder.
 
 **If you want to uninstall:**
 
 1. Rerun the Reshade exe.
-2. Select where you installed which should be Steam\steamapps\common\Fallout New Vegas.
-3. When prompted, select the uninstall tick bubble. Press next.
+2. Select the installation path, which should be `Steam\steamapps\common\Fallout New Vegas`.
+3. When prompted, select the uninstall tick bubble and press next.
 4. You will have to manually delete the ini you placed in the games folder.
 
 ### In-Game
 
 **Why am I getting exclamation marks in TTW?**
 
-- Didn't install TTW right.
+- You didn't install TTW correctly.
 
-**Getting this weird message in-game about a script overwrite?**
+**Getting a weird message in-game about a script overwrite?**
 
-- Didn't place YUPTTW at the top of your load order.
+- You didn't place YUPTTW at the top of your load order.
 
 **Why does my game not look like the pictures?**
 
@@ -642,15 +643,13 @@ If you want to screenshot, press your print key. The screenshots go to your game
 **My game's lighting/textures are messed up. Any fix?**
 
 - Your load order/modlist might be messed up.
-- To fix this, download the modlist
+- To fix this, download the modlist and load order files for the profile you are using from below:
 
-load order files for the profile you are using down below.
-
-[Brutal Wasteland profile](https://loadorderlibrary.com/lists/brutal-wasteland) 
+[Brutal Wasteland profile](https://loadorderlibrary.com/lists/brutal-wasteland)
 
 Paste and overwrite the files found here:  
 
-TTW Brutal Wasteland TTW/Profiles/Brutal Wasteland TTW
+`TTW Brutal Wasteland TTW/Profiles/Brutal Wasteland TTW`
 
 **Why can't/shouldn't I start in the Mojave?**
 
@@ -658,9 +657,7 @@ TTW Brutal Wasteland TTW/Profiles/Brutal Wasteland TTW
 
 **Traveled to the Mojave and all my stuff disappeared?**
 
-
-
-- For balance, can be found in Benny's safe located at The Tops.
+- For balance purposes, your items can be found in Benny's safe located at The Tops.
 
 **How do I start the DLCs?**
 
@@ -679,15 +676,13 @@ TTW Brutal Wasteland TTW/Profiles/Brutal Wasteland TTW
 **Why is my game not launching?**
 
 1. Switch or uncheck DXVK in the optional separator.
-2. Make sure you are launching Brutal Wasteland FNV and not NVSE through MO2 etc.
+2. Make sure you are launching Brutal Wasteland FNV and not NVSE through MO2, etc.
 3. Verify the game files and reapply the 4 GB patch.
-4. Sometimes menu mods can cause problems, start with these.
-
-
+4. Sometimes menu mods can cause problems, so start with these.
 
 **Changing resolution through ini**
 
-- To change the resolution, go to the falloutcustom.ini located in MO2 and type this in the display section: isize W= and isize H=, then type your resolution.
+- To change the resolution, go to the falloutcustom.ini located in MO2 and type this in the display section: `isize W=` and `isize H=`, then type your resolution.
 
 ### Mod Organizer 2
 
@@ -696,14 +691,14 @@ TTW Brutal Wasteland TTW/Profiles/Brutal Wasteland TTW
 1. Select clear the read-only flag.
 2. Then change always ask at the bottom.
 
-**How do I switch between single player to multiplayer?**
+**How do I switch between single player and multiplayer?**
 
 1. At the top of MO2, there is a bar that says profile. Click it and select the profile you want from the drop-down menu.
-2. For NVMP Server you will have to run it in its own MO2 instance or on its own pc 
-2a. Create a shortcut and add --multiple to target to run more than 1 instance of MO2 at once.
-3. Connect to your server by launching nvmp connect and click connect via ip, then enter the correct ip
+2. For NVMP Server, you will have to run it in its own MO2 instance or on its own PC.
+2a. Create a shortcut and add `--multiple` to target to run more than one instance of MO2 at once.
+3. Connect to your server by launching nvmp connect and click connect via IP, then enter the correct IP.
 
-**How do I avoid my private or added mods from getting deleted from updates?**
+**How do I avoid my private or added mods from getting deleted during updates?**
 
 1. Put [NoDelete] in the beginning of the mod’s name.
 2. Example: [NoDelete] New Vegas Reloaded.
@@ -733,9 +728,9 @@ If you are interested in:
 
 ### General Tips
 
-**Make sure you have no overlays like Overwolf or Discord on as it can make performance worse or cause freezing etc.**
+**Make sure you have no overlays like Overwolf or Discord on as it can make performance worse or cause freezing, etc.**
 
-**You will have to reload your save if you want some mods to work like Hitman's animations and B42 notify etc.**
+**You will have to reload your save if you want some mods to work like Hitman's animations and B42 notify, etc.**
 
 **You can delete the files in the Brutal Wasteland FNV or TTW Downloads folder to free up space, but not recommended if you have bad internet since you'll have to redownload everything again. If you choose to update when updates drop, you'll have to delete it again.**
 
