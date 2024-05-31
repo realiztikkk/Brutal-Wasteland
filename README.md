@@ -6,11 +6,13 @@ Introducing Brutal Wasteland, my take on making Fallout New Vegas and Fallout 3 
 
 ![Brutal Wasteland](https://i.imgur.com/DGMn4bp.png)
 
-- **Must have all official DLC for both games.**
-- **Epic Games Store version of FNV is not supported by Wabbajack.**
-- **For Fallout 3, you can use Steam, GOG, or the Epic Games Store version.**
-- **English version only.**
-- **PCR version is not supported.**
+- **Make sure you have all the official DLC for both Fallout: New Vegas and Fallout 3.**
+- **Heads up! The Epic Games Store version of FNV isn't supported by Wabbajack.**
+- **For Fallout 3, feel free to use the Steam, GOG, or Epic Games Store versions.**
+- **Only the English versions are compatible.**
+- **The PCR version is not supported.**
+
+Ready to embark on your modding adventure? Let's dive in!
 
 (a few screenshots)
 
