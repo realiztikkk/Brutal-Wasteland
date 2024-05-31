@@ -5,7 +5,7 @@ Introducing Brutal Wasteland, my take on making Fallout New Vegas and Fallout 3 
 # Welcome
 ![Welcome](https://i.postimg.cc/zv73tBc5/INTRO.png)
 <details>
-<summary>Show Welcome!</summary>
+<summary>Show Intro</summary>
 
 ![Brutal Wasteland](https://i.imgur.com/DGMn4bp.png)
 
