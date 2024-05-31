@@ -864,7 +864,7 @@ That's it!
 ### Discord
 ![](https://i.postimg.cc/Y0GWg4gD/discord.png)
 <details>
-<summary>Show NVMP</summary>
+<summary>Show Discord</summary>
 
 Coming Soon!
 
@@ -873,7 +873,7 @@ Coming Soon!
 ### Not Included
 ![](https://i.postimg.cc/8zV6JzCw/notincluded.png)
 <details>
-<summary>Show NVMP</summary>
+<summary>Show Not Included</summary>
 
 Coming Soon!
 
@@ -882,7 +882,7 @@ Coming Soon!
 ### Reviews
 ![](https://i.postimg.cc/1t4nhgWR/reviews.png)
 <details>
-<summary>Show NVMP</summary>
+<summary>Show Reviews</summary>
 
 Coming Soon!
 
