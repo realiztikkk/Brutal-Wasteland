@@ -108,14 +108,13 @@ Ready to embark on your modding adventure? Let's dive in!
 <summary>More</summary>
 
 ![Realistic Combat](https://staticdelivery.nexusmods.com/mods/130/images/66646/66646-1552712735-1181766514.jpeg)
-- Makes combat feel much more realistic [-by korri123](https://www.nexusmods.com/newvegas/mods/66646)
+- **Makes combat feel much more realistic [-by korri123](https://www.nexusmods.com/newvegas/mods/66646)**
 
 ![Fast Travel](https://staticdelivery.nexusmods.com/mods/130/images/77645/77645-1660578561-2044515298.png)
-- Fast travel replaced with lore-friendly expansion [-by StealthDick](https://www.nexusmods.com/newvegas/mods/77645)
+- **Fast travel replaced with lore-friendly expansion [-by StealthDick](https://www.nexusmods.com/newvegas/mods/77645)**
 
 ![Sweet Perk Overhaul](https://staticdelivery.nexusmods.com/mods/130/images/73946/73946-1646427635-1889205168.png)
-- Sweet Perk Overhaul [by 5al4mand3r](https://next.nexusmods.com/profile/Sweet6Shooter/about-me?gameId=130) keeps things fresh!
-
+- **Sweet Perk Overhaul [by 5al4mand3r](https://next.nexusmods.com/profile/Sweet6Shooter/about-me?gameId=130) keeps things fresh!**
 </details>
 
 ## Watch Trailer
@@ -159,16 +158,12 @@ If you have any questions, there's a FAQ down below.
 - **English copy of Fallout New Vegas with all official DLC on [Steam](https://store.steampowered.com/agecheck/sub/13435).**
 - **A [Nexus Mods](https://users.nexusmods.com/register) account, preferably with a premium subscription.**
 - **Download and install [Visual C++](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/) (extract the archive and run the included install_all.bat as an administrator to install all the required libraries at once).**
-- **Download and install [DirectX Runtime Libraries](https://www.microsoft.com
-
-/en-us/download/details.aspx?id=8109) and [.NET Framework 4.8](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net48-web-installer).**
+- **Download and install [DirectX Runtime Libraries](https://www.microsoft.com/en-us/download/details.aspx?id=8109) and [.NET Framework 4.8](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net48-web-installer).**
 - **The latest GPU drivers ([NVIDIA](https://www.nvidia.com/Download/index.aspx), [AMD](https://www.amd.com/en/support), or [Intel](https://www.intel.com/content/www/us/en/download/19344/intel-graphics-windows-dch-drivers.html)).**
 - **An archiving tool ([7-zip](https://www.7-zip.org/) is recommended).**
 - **A text editor ([Notepad++](https://notepad-plus-plus.org/) is recommended, but the default Windows notepad will work).**
 
-[Visual C++](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/) and [.NET Framework 
-
-4.8](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net48-web-installer) are needed for MO2. If they are already installed, it should notify you.
+[Visual C++](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/) and [.NET Framework 4.8](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net48-web-installer) are needed for MO2. If they are already installed, it should notify you.
 
 I suggest restarting your PC after installing the drivers.
 
