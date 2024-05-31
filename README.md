@@ -1,5 +1,8 @@
 ![](https://i.postimg.cc/43PVTRsP/brutalwasteland.png)
 
+<details>
+<summary>Show Table of Contents</summary>
+
 Introducing Brutal Wasteland, my take on making Fallout New Vegas and Fallout 3 tougher and more realistic. Maxed out at 255 plugins and over 865+ mods, you'll get new gameplay mechanics, enhanced textures, and overhauled locations. In this version, headshots are fatal, and everythinggg is extra lethal. Read more below!
 
 # Welcome to the "Brutal Wasteland" Wabbajack Install Guide!
@@ -20,6 +23,7 @@ Introducing Brutal Wasteland, my take on making Fallout New Vegas and Fallout 3 
 ![Screenshot 3](https://i.imgur.com/1pUO4n6.jpeg)
 ![Screenshot 4](https://i.imgur.com/8Vcbyrg.jpg)
 ![Screenshot 5](https://i.imgur.com/Jy10TRj.jpg)
+<details>
 
 ## Table of Contents
 ![](https://i.postimg.cc/fRQVTcjk/toc.png)
@@ -862,6 +866,8 @@ That's it!
 </details>
 
 ### Discord
+<details>
+<summary>Show NVMP</summary>
 
 Coming Soon!
 ![](https://i.postimg.cc/Y0GWg4gD/discord.png)
@@ -869,6 +875,8 @@ Coming Soon!
 </details>
 
 ### Not Included
+<details>
+<summary>Show NVMP</summary>
 
 Coming Soon!
 ![](https://i.postimg.cc/8zV6JzCw/notincluded.png)
@@ -876,6 +884,8 @@ Coming Soon!
 </details>
 
 ### Reviews
+<details>
+<summary>Show NVMP</summary>
 
 Coming Soon!
 ![](https://i.postimg.cc/1t4nhgWR/reviews.png)
