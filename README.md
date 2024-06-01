@@ -857,7 +857,7 @@ That's it!
 <details>
 <summary>More</summary>
 
-Coming Soon!
+https://discord.gg/uPgpxKmAf4
 
 </details>
 
