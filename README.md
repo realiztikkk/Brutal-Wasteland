@@ -4,7 +4,7 @@ Welcome to Brutal Wasteland, your ticket to the harsh, unforgiving world of Fall
 
 ## Welcome
 
-![Brutal Wasteland](https://i.imgur.com/DGMn4bp.png)
+![Brutal Wasteland](https://i.imgur.com/VJvmlAj.jpeg)
 
 - **Make sure you have all the official DLC for both Fallout: New Vegas and Fallout 3.**
 - **Heads up! The Epic Games Store version of FNV isn't supported by Wabbajack.**
