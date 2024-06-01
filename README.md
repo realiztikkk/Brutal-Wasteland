@@ -805,7 +805,7 @@ Based on the following resources:
 <details>
 <summary>More</summary>
 
-- Coming Soon!
+[Patreon](https://patreon.com/kreationz?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink)
 
 </details>
 
