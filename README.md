@@ -497,7 +497,7 @@ Remove Always run and Auto move keybinds with ESC in your controls settings for 
 </details>
 
 ## Tweaks
-![](https://i.postimg.cc/c6GrnFd6/tweaks.png)
+![](https://i.imgur.com/AbDx4B2.png)
 <details>
 <summary>More</summary>
 
@@ -801,7 +801,7 @@ Based on the following resources:
 </details>
 
 ## Patreon Supporters
-![](https://i.postimg.cc/jjMwF64k/patreonsupporters.png)
+![](https://i.imgur.com/HRvz4wf.png)
 <details>
 <summary>More</summary>
 
