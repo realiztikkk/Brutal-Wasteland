@@ -1,5 +1,5 @@
-![](https://i.postimg.cc/43PVTRsP/brutalwasteland.png)
-![Welcome](https://i.postimg.cc/zv73tBc5/INTRO.png)
+![](https://i.imgur.com/LHHq0az.png)
+![Welcome](https://i.imgur.com/dBarIww.png)
 Welcome to Brutal Wasteland, your ticket to the harsh, unforgiving world of Fallout: New Vegas and Fallout 3, reimagined. After countless hours spent modding, we've maxed out at 255 plugins and crammed in over 865+ mods. Get ready for a tougher, more realistic wasteland with deadly new gameplay mechanics, stunningly enhanced textures, and overhauled locations. In this brutal version, headshots are fatal, and everything is extra lethal. Step into the apocalypse and discover more below —if you dare.
 
 ## Welcome
