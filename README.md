@@ -23,7 +23,7 @@ Ready to embark on your modding adventure? Let's dive in!
 ![Screenshot 5](https://i.imgur.com/Jy10TRj.jpg)
 
 ## Table of Contents
-![](https://i.postimg.cc/fRQVTcjk/toc.png)
+![](https://i.imgur.com/qJ1oEnq.png)
 <details>
 <summary>More</summary>
 
